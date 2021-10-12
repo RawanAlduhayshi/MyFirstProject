@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     val remaindofApples=  APPLES % 12
 
 
-        println(numberofDozens)
+        println("number of dozens ${numberofDozens}")
        println(remaindofApples)
 
 
